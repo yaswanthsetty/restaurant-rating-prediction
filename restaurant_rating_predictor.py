@@ -5,7 +5,7 @@ Restaurant Rating Prediction - Python Script Version
 This script provides a streamlined version of the restaurant rating prediction model.
 For full analysis and visualizations, please refer to the Jupyter notebook.
 
-Author: [Your Name]
+Author: Yaswanth Setty
 Date: July 2025
 """
 

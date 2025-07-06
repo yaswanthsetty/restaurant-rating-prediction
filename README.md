@@ -177,9 +177,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
+Yaswanth Setty - gyaswanthsetty@gmail.com
 
-Project Link: [https://github.com/yourusername/restaurant-rating-prediction](https://github.com/yourusername/restaurant-rating-prediction)
+Project Link: [https://github.com/YOUR_USERNAME/restaurant-rating-prediction](https://github.com/YOUR_USERNAME/restaurant-rating-prediction)
 
 ---
 
