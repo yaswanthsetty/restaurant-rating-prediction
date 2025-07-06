@@ -17,7 +17,6 @@ This project implements a comprehensive machine learning pipeline to predict res
 ```
 Restaurant ML Project/
 ├── Restaurant ratings.ipynb          # Main analysis notebook
-├── Zomato_Rating_Prediction_Documentation.ipynb  # Documentation
 ├── Dataset .csv                       # Raw dataset
 ├── requirements.txt                   # Python dependencies
 ├── README.md                         # Project documentation
@@ -58,7 +57,7 @@ Restaurant ML Project/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/restaurant-rating-prediction.git
+git clone https://github.com/yaswanthsetty/restaurant-rating-prediction.git
 cd restaurant-rating-prediction
 ```
 
@@ -179,7 +178,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Yaswanth Setty - gyaswanthsetty@gmail.com
 
-Project Link: [https://github.com/YOUR_USERNAME/restaurant-rating-prediction](https://github.com/YOUR_USERNAME/restaurant-rating-prediction)
+Project Link: [https://github.com/yaswanthsetty/restaurant-rating-prediction](https://github.com/yaswanthsetty/restaurant-rating-prediction)
 
 ---
 
